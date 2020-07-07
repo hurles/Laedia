@@ -1,0 +1,13 @@
+D:\NetworkingTest\LaediaClient\LaediaClient\obj\Debug\LaediaClient.csproj.CoreCompileInputs.cache
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\LaediaClient.exe.config
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\LaediaClient.exe
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\LaediaClient.pdb
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\LaediaNetworking.dll
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\Lidgren.Network.dll
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\LaediaNetworking.pdb
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\Lidgren.Network.pdb
+D:\NetworkingTest\LaediaClient\LaediaClient\obj\Debug\LaediaClient.csprojAssemblyReference.cache
+D:\NetworkingTest\LaediaClient\LaediaClient\obj\Debug\LaediaClient.csproj.CopyComplete
+D:\NetworkingTest\LaediaClient\LaediaClient\obj\Debug\LaediaClient.exe
+D:\NetworkingTest\LaediaClient\LaediaClient\obj\Debug\LaediaClient.pdb
+D:\NetworkingTest\LaediaClient\LaediaClient\bin\Debug\Lidgren.Network.xml

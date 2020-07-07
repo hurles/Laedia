@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaediaServer", "LaediaServer\LaediaServer.csproj", "{C2730204-ECDE-4B2F-B575-8A62431A218A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidgren.Network", "..\Lidgren.Network\Lidgren.Network\Lidgren.Network.csproj", "{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaediaNetworking", "..\LaediaNetworking\LaediaNetworking.csproj", "{64D74751-5FF8-4885-ABC4-43FB77253678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaediaWorld", "..\LaediaWorldGeneration\LaediaWorld.csproj", "{A534043E-5083-4CEC-AF62-B6D1A92F7B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaediaShared", "..\LaediaShared\LaediaShared.csproj", "{7DE215DB-7588-4A61-9874-22E7AE2EB774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2730204-ECDE-4B2F-B575-8A62431A218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2730204-ECDE-4B2F-B575-8A62431A218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2730204-ECDE-4B2F-B575-8A62431A218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2730204-ECDE-4B2F-B575-8A62431A218A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D74751-5FF8-4885-ABC4-43FB77253678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D74751-5FF8-4885-ABC4-43FB77253678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D74751-5FF8-4885-ABC4-43FB77253678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D74751-5FF8-4885-ABC4-43FB77253678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A534043E-5083-4CEC-AF62-B6D1A92F7B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A534043E-5083-4CEC-AF62-B6D1A92F7B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A534043E-5083-4CEC-AF62-B6D1A92F7B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A534043E-5083-4CEC-AF62-B6D1A92F7B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE215DB-7588-4A61-9874-22E7AE2EB774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE215DB-7588-4A61-9874-22E7AE2EB774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE215DB-7588-4A61-9874-22E7AE2EB774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE215DB-7588-4A61-9874-22E7AE2EB774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C7C614-BD57-438C-8D2F-4B48B808E909}
+	EndGlobalSection
+EndGlobal
